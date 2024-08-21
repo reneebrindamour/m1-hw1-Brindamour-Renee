@@ -1,6 +1,6 @@
 # My First Coding Assignment
 
-![picture alt](https://pixabay.com/photos/sunflowers-field-flowers-meadow-5482116 "Carefree Woman")
+![picture alt](https://images.pexels.com/photos/26997898/pexels-photo-26997898/free-photo-of-a-woman-in-a-field-with-her-arms-up.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 "Carefree Woman")
 
 ## About Me
 My name is Renee Brindamour, and I am a Mom, Student, and Web Designer for the University of Michigan. Deciding to pursue my Master's degree was based on two things. My father passed away in January. I promised him that I would reach for the stars, be happy, and pursue the things that interests me. Studying web design and working in the field is more of a hobby for me. I love what I study, love my work, and love to learn new things. 
